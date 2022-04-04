@@ -1,2 +1,6 @@
 # cdi-01
-lol
+Alumno: Santiago Vila
+
+Curso: 4° 1° Avioc.
+
+Materia: Control de interfaces
